@@ -1,0 +1,5 @@
+- 👋 Hello! I’m Paul Garbarino, a U.S. government data scientist. I specialize in time series forecasting in Python. I also dabble with SQL and Tableau.
+- 👀 I'm primarily interested in econometrics, forecasting, and machine learning.
+- 🌱 I’m always learning more about econometrics, forecasting, and machine learning. But, am looking to learn more about web scraping.
+- 💞️ I’m looking to collaborate on something in the near future!
+- 📫 Just message me!
